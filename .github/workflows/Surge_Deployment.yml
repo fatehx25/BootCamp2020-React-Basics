@@ -38,5 +38,5 @@ jobs:
       run: npm install --global surge
       
     - name: Deploying to Surge
-    - name: surge ./build fateh-react-app.surge.sh --token ${{ secrets.SURGE_TOKEN }}
+      run: surge ./build fateh-react-app.surge.sh --token ${{ secrets.SURGE_TOKEN }}
     
