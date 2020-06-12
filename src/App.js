@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          <code>FATEH ALI MEHDI GOLANI</code>
         <br/>
           Okay! This is my first React App. <b>Preety <strong>Easy</strong> Ahn!</b> 
         </p>
