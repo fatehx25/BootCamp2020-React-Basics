@@ -5,7 +5,7 @@ import ReactDOM from 'react-dom';
 //This is a plain JS function, Hi. What makes this function a React component is
 //the fact that this function can return something which React can render.
 function Hi() {
-    return <div>Hello World!</div>; //This <div> statement is a JSX syntax. 
+    return <div>Hello World! This is <strong>Fateh</strong>!</div>; //This <div> statement is a JSX syntax. 
 } //React basically calls this function, extracts the JSX, and renders its HTML
   //equivalent to the DOM. 
 
