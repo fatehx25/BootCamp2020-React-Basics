@@ -9,6 +9,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           FATEH ALI MEHDI GOLANI
+        <br/>  
         <br/>
           Okay! This is my first React App. <b>Preety <strong>Easy</strong> Ahn!</b> 
         </p>
